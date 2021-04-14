@@ -1,0 +1,18 @@
+{
+  "name": "dr.bones",
+  "version": "1.0.0",
+  "description": "Bot staff",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "staff",
+    "tb"
+  ],
+  "author": "GBioVirus",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
